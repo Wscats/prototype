@@ -1,2 +1,3 @@
 # prototype
-原型图文档
+
+[Axureux示例模板](http://www.axureux.com/demo/Templates012/#)
